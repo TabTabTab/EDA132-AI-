@@ -21,7 +21,9 @@ A['conjunctive normal form']=225;
 A['propositional logic']=221;
 A['resolution proof']=224;
 A['entailment']=212;
-
+A['a* search']=95;
+A['graph search']=79;
+A['bfs']=83;
 
 
 print("Index for Artificial Intelligence: A Modern Approach, Third Edition (international)");
