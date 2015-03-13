@@ -20,6 +20,8 @@ A['simulated annealing']=128;
 A['conjunctive normal form']=225;
 A['propositional logic']=221;
 A['resolution proof']=224;
+A['entailment']=212;
+
 
 
 print("Index for Artificial Intelligence: A Modern Approach, Third Edition (international)");
