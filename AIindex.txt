@@ -1,0 +1,26 @@
+Index for Artificial Intelligence: A Modern Approach, Third Edition (international)
+
+8-puzzle: 105
+a* search: 95
+admissible heuristics: 106
+alpha-beta pruning: 170
+bayes' rule: 503
+bfs: 83
+conjunctive normal form: 225
+decision tree: 709
+definite clause: 228
+em algorithm: 829
+entailment: 212
+entropy: 715
+filtering: 581
+forward-backward filtering: 586
+graph search: 79
+heuristic functions: 104
+horn clause: 228
+information gain: 715
+min-max algo: 168
+naive bayes' model: 821
+propositional logic: 221
+resolution proof: 224
+simulated annealing: 128
+viterbi algorithm: 588
