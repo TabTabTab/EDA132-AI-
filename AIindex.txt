@@ -13,14 +13,17 @@ em algorithm: 829
 entailment: 212
 entropy: 715
 filtering: 581
+fixed lag smoothing: 590
 forward-backward filtering: 586
 graph search: 79
 heuristic functions: 104
 horn clause: 228
 information gain: 715
+linear regression: 729
 min-max algo: 168
 naive bayes' model: 821
 propositional logic: 221
+regression: 728
 resolution proof: 224
 simulated annealing: 128
 viterbi algorithm: 588

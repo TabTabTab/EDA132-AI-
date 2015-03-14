@@ -24,6 +24,11 @@ A['entailment']=212;
 A['a* search']=95;
 A['graph search']=79;
 A['bfs']=83;
+A['filtering']=581;
+A['regression']=728;
+A['linear regression']=729;
+A['fixed lag smoothing']=590;
+
 
 
 print("Index for Artificial Intelligence: A Modern Approach, Third Edition (international)");
