@@ -34,6 +34,12 @@ A['inference']=222;
 A['resolvent']=224;
 A['forward chaining']=229;
 A['backward chaining']=229;
+A['loss']=721;
+A['cross validation']=721;
+A['error rate']=719;
+A['loocv']=719;
+A['model selection']=720;
+A['generalization loss']=722;
 print("Index for Artificial Intelligence: A Modern Approach, Third Edition (international)");
 print("")
 for key in sorted(A):
