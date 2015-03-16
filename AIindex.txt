@@ -20,8 +20,10 @@ fixed lag smoothing: 590
 forward chaining: 229
 forward-backward filtering: 586
 generalization loss: 722
+gradient descent: 730
 graph search: 79
 heuristic functions: 104
+hidden markow models: 588
 horn clause: 228
 inference: 222
 information gain: 715
@@ -31,6 +33,7 @@ loss: 721
 min-max algo: 168
 model selection: 720
 naive bayes' model: 821
+overfitting: 732
 perceptron: 735
 propositional logic: 221
 quantifier: 298

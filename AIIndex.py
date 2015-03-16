@@ -40,6 +40,9 @@ A['error rate']=719;
 A['loocv']=719;
 A['model selection']=720;
 A['generalization loss']=722;
+A['gradient descent']=730;
+A['overfitting']=732;
+A['hidden markow models']=588;
 print("Index for Artificial Intelligence: A Modern Approach, Third Edition (international)");
 print("")
 for key in sorted(A):
