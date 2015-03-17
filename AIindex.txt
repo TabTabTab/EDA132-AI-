@@ -30,6 +30,7 @@ information gain: 715
 linear regression: 729
 loocv: 719
 loss: 721
+map: 817
 min-max algo: 168
 model selection: 720
 naive bayes' model: 821
